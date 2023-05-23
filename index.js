@@ -18,4 +18,4 @@ client.on("interactionCreate", (interaction) => {
 
 
 
-client.login("MTEwOTg0MTg1NTg4NzE4Mzk4Nw.GJfoj_.EigN_PjErLHBZj9v2SihJjfHaZ6f2Lk0KJz5aE");
+client.login("TOKEN");
